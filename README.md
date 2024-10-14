@@ -7,4 +7,4 @@ Off of this HTML template, I customized it to my needs. For one, I changed the t
 
 One major change I had to make from the original template was the scaling. The website looked great on computers but awful on phones. To fix this problem, I setup custom breakpoints on the website for it to scale down with.
 
-After having finished the website I am happy with how it came out. I know Big Puffin Global is not a real company, nothing more than a money laundering scheme if it ever exists, but I believe Big Puffin Global would be satisfied with this website if it was a real company.
+After having finished the website, I am happy with how it came out. I know Big Puffin Global is not a real company, but I believe Big Puffin Global would be satisfied with this website if it were a real company.
